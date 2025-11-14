@@ -1,30 +1,40 @@
-# code1
+# eHRMS – MANAV SAMPADA
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A modern redesign of the HR management portal for government employees (Uttar Pradesh).  
+This version features a sleek UI/UX and core HR modules such as payroll, salary-slip updates, job-profile management, promotions and an automated HR chatbot.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/rajnimohan24-7735s-projects/v0-code1-qo)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/MtLC8f7OCHp)
+**Live Demo:** [HOSTING LINK HERE]
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 🚀 Features
 
-## Deployment
+- **Payroll Management**: Automatic salary computation, component breakdown (Basic, HRA, DA, allowances), deductions (PF, TDS etc.)  
+- **Salary Slip Update**: Authorized HR users can correct salary details before final slip generation.  
+- **Job Profile Management**: Role, department, responsibilities tracked and editable.  
+- **Promotion Management**: Handle designation changes, pay-scale upgrades and benefit application.  
+- **HR & Employee Chatbot**: Instant automated support for queries related to leaves, salary, profiles, promotions, policies.  
+- **One-Click Compliance Checker**: Flagship feature which auto-verifies salary against PF, NPS, GIS, tax and pay-band rules—HR sirf click kare, system sab check kare.
 
-Your project is live at:
+---LOGIN PAGE
+<img width="1897" height="784" alt="image" src="https://github.com/user-attachments/assets/2b6a029b-2d31-4576-82b4-d1abdfe0fa6b" />
+<img width="1888" height="787" alt="image" src="https://github.com/user-attachments/assets/06a856d5-1ab6-4625-853f-af7045e6bb2e" />
+<img width="1876" height="786" alt="image" src="https://github.com/user-attachments/assets/957e2418-7a18-443b-bf52-c50ca4a0bd1f" />
+![Uploading image.png…]()
 
-**[https://vercel.com/rajnimohan24-7735s-projects/v0-code1-qo](https://vercel.com/rajnimohan24-7735s-projects/v0-code1-qo)**
 
-## Build your app
 
-Continue building your app on:
 
-**[https://v0.app/chat/MtLC8f7OCHp](https://v0.app/chat/MtLC8f7OCHp)**
+## 🧰 Tech Stack
 
-## How It Works
+- **Framework**: Next.js (App Router)  
+- **Language**: TypeScript  
+- **Styling**: Tailwind CSS, ready for premium UI-UX  
+- **API Backend**: Next.js API Routes (or App Router endpoints)  
+- **Chatbot**: Modular architecture – can integrate with Rasa / Dialogflow / custom logic  
+- **Deployment**: Vercel (or any Next-friendly hosting)  
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
+
+## 📁 Project Structure (High-Level)
+
