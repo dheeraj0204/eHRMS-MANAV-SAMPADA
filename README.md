@@ -3,8 +3,7 @@
 A modern redesign of the HR management portal for government employees (Uttar Pradesh).  
 This version features a sleek UI/UX and core HR modules such as payroll, salary-slip updates, job-profile management, promotions and an automated HR chatbot.
 
-**Live Demo:** [HOSTING LINK HERE]
-
+**Live Demo:** https://ehrms-upsdc.vercel.app/
 ---
 
 ## 🚀 Features
